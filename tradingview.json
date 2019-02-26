@@ -1,0 +1,1307 @@
+{
+  "result": [
+    {
+      "actual": 0.9,
+      "comment": "The Consumers Price Index (CPI) measures the rate of price change of goods andservices purchased by households. It measures changes in the average level ofprices over a period of time. In other words, prices indicator of what ishappening to prices consumers are paying for items purchased. With a givenstarting point or base period which is usually taken as 100, the CPI can be usedto compare current period consumer prices with those in the base period.The CPI All Groups Index is prepared quarterly. The food group is the onlycommodity group of the CPI for which an index is prepared each month.",
+      "country": "NZ",
+      "currency": "NZD",
+      "date": "2018-10-15T21:45:00.000Z",
+      "forecast": 0.7,
+      "id": "11032832 2018-10-15 21:45:00 +0000 UTC NZD New Zealand-CPI - CPI QQ",
+      "importance": 1,
+      "indicator": "CPI QQ",
+      "link": "",
+      "period": "Q3 2018",
+      "previous": 0.4,
+      "scale": "",
+      "source": "Stats NZ",
+      "title": "New Zealand-CPI - CPI QQ",
+      "unit": "%"
+    },
+    {
+      "actual": 1.9,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.The Consumers Price Index (CPI) measures the rate of pricechange of goods and services purchased by households. The CPI All Groups Indexis prepared quarterly.",
+      "country": "NZ",
+      "currency": "NZD",
+      "date": "2018-10-15T21:45:00.000Z",
+      "forecast": 1.7,
+      "id": "11032832 2018-10-15 21:45:00 +0000 UTC NZD New Zealand-CPI - CPI YY",
+      "importance": 1,
+      "indicator": "CPI YY",
+      "link": "",
+      "period": "Q3 2018",
+      "previous": 1.5,
+      "scale": "",
+      "source": "Stats NZ",
+      "title": "New Zealand-CPI - CPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The unemployment rate represents the number of unemployed persons expressed as apercentage of the labour force. The unemployment rate for a particular age/sexgroup is the number of unemployed in that group expressed as a percentage of thelabour force for that group.The ILO definition of unemployment covers people whoare: not in employment, want a job, have actively sought work in the previousfour weeks and are available to start work within the next fortnight or; out ofwork and have accepted a job which they are waiting to start next fortnight.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-16T08:30:00.000Z",
+      "forecast": 4,
+      "id": "11153016 2018-10-16 08:30:00 +0000 UTC GBP UK releases monthly data on unemployment and pay growth - ILO Unemployment Rate",
+      "importance": 1,
+      "indicator": "ILO Unemployment Rate",
+      "link": "",
+      "period": "Aug. 2018",
+      "previous": 4,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK releases monthly data on unemployment and pay growth - ILO Unemployment Rate",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The unemployment rate represents the number of unemployed persons expressed as apercentage of the labour force. The unemployment rate for a particular age/sexgroup is the number of unemployed in that group expressed as a percentage of thelabour force for that group.The ILO definition of unemployment covers people whoare: not in employment, want a job, have actively sought work in the previousfour weeks and are available to start work within the next fortnight or; out ofwork and have accepted a job which they are waiting to start next fortnight.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-16T08:30:00.000Z",
+      "forecast": 4,
+      "id": "11153016 2018-10-16 08:30:00 +0000 UTC GBP UK pay growth seen at close to inflation - ONS labour market data - ILO Unemployment Rate",
+      "importance": 1,
+      "indicator": "ILO Unemployment Rate",
+      "link": "",
+      "period": "Aug. 2018",
+      "previous": 4,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK pay growth seen at close to inflation - ONS labour market data - ILO Unemployment Rate",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "Unemployment is the total number of all persons above a specified age, who in ashort reference period were: not employed, available for work (either for paidwork or for self employment) and were seeking work (were actively searching foremployment or taking active steps towards self-employment).The monthly claimantcount is a full count of the number of people claiming Jobseeker's Allowance(JSA) each month.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-16T08:30:00.000Z",
+      "forecast": 7.5,
+      "id": "11266853 2018-10-16 08:30:00 +0000 UTC GBP United Kingdom-Claimant Count - Claimant Count Unem Chng",
+      "importance": 1,
+      "indicator": "Claimant Count Unem Chng",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 8.7,
+      "scale": "K",
+      "source": "ONS",
+      "title": "United Kingdom-Claimant Count - Claimant Count Unem Chng",
+      "unit": ""
+    },
+    {
+      "actual": null,
+      "comment": "About 350 financial analysts from banks, insurance companies and largeindustrial enterprises participate in this survey. Among the respondents areexperts from the finance, research and economic departments as well as traders,fund managers and investment consultants. These experts are questioned abouttheir medium-term expectations for the development of the macroeconomic trend,the inflation rate, the short-term and long-term interest rates, the stockmarket and the exchange rates. The survey deals with the markets of Germany, theUnited States, Japan, Great Britain, France and Italy. Since 1999 dataconcerning the EU-11 countries are also being collected. In addition thefinancial experts are requested to estimate the profit situation of 13 Germanindustries (banks, insurance, trade and commerce, construction, automotive,chemistry, steel, electricity, mechanical engineering, utilities, services,telecommunication and information technology).",
+      "country": "DE",
+      "currency": "DEM",
+      "date": "2018-10-16T09:00:00.000Z",
+      "forecast": 74.5,
+      "id": "11144362 2018-10-16 09:00:00 +0000 UTC DEM Germany-ZEW - ZEW Current Conditions",
+      "importance": 1,
+      "indicator": "ZEW Current Conditions",
+      "link": "",
+      "period": "Oct. 2018",
+      "previous": 76,
+      "scale": "",
+      "source": "ZEW",
+      "title": "Germany-ZEW - ZEW Current Conditions",
+      "unit": ""
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "IT",
+      "currency": "ITL",
+      "date": "2018-10-16T09:00:00.000Z",
+      "forecast": 1.5,
+      "id": "11184738 2018-10-16 09:00:00 +0000 UTC ITL Italy-Inflation Final - Consumer Prices Final YY",
+      "importance": 1,
+      "indicator": "Consumer Prices Final YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 1.6,
+      "scale": "",
+      "source": "ISTAT",
+      "title": "Italy-Inflation Final - Consumer Prices Final YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The Centre for European Economic Research (Zentrum fuer EuropaeischeWirtschaftsforschung, ZEW). The ZEW Financial Market Survey has been carried outon a monthly basis since December 1991. It displays the expectations offinancial experts for six important international financial markets. About 350financial analysts from banks, insurance companies and large industrialenterprises participate in this survey. Among the respondents are experts fromthe finance, research and economic departments as well as traders, fund managersand investment consultants. These experts are questioned about their medium-termexpectations for the development of the macroeconomic trend, the inflation rate,the short-term and long-term interest rates, the stock market and the exchangerates.",
+      "country": "DE",
+      "currency": "DEM",
+      "date": "2018-10-16T09:00:00.000Z",
+      "forecast": -12,
+      "id": "11144362 2018-10-16 09:00:00 +0000 UTC DEM Germany-ZEW - ZEW Economic Sentiment",
+      "importance": 2,
+      "indicator": "ZEW Economic Sentiment",
+      "link": "",
+      "period": "Oct. 2018",
+      "previous": -10.6,
+      "scale": "",
+      "source": "ZEW",
+      "title": "Germany-ZEW - ZEW Economic Sentiment",
+      "unit": ""
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "IT",
+      "currency": "ITL",
+      "date": "2018-10-16T09:00:00.000Z",
+      "forecast": -0.4,
+      "id": "11184738 2018-10-16 09:00:00 +0000 UTC ITL Italy-Inflation Final - Consumer Prices Final MM",
+      "importance": 1,
+      "indicator": "Consumer Prices Final MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.4,
+      "scale": "",
+      "source": "ISTAT",
+      "title": "Italy-Inflation Final - Consumer Prices Final MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "US",
+      "currency": "USD",
+      "date": "2018-10-16T14:00:00.000Z",
+      "forecast": 6.945,
+      "id": "11129983 2018-10-16 14:00:00 +0000 UTC USD United States-Job Openings - JOLTS Job Openings",
+      "importance": 1,
+      "indicator": "JOLTS Job Openings",
+      "link": "",
+      "period": "Aug. 2018",
+      "previous": 6.939,
+      "scale": "M",
+      "source": "BLS",
+      "title": "United States-Job Openings - JOLTS Job Openings",
+      "unit": ""
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": null,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - Core CPI MM",
+      "importance": 1,
+      "indicator": "Core CPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.8,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - Core CPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 2,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - Core CPI YY",
+      "importance": 1,
+      "indicator": "Core CPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2.1,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - Core CPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 2.6,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - CPI YY",
+      "importance": 1,
+      "indicator": "CPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2.7,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - CPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer prices index (CPI) is the main United Kingdom domestic measure ofinflation for macroeconomic purposes. The uses of the retail prices index (RPI)include indexation of pensions, state benefits and index-linked gilts. Bothmeasure the average change from month to month in the prices of consumer goodsand services purchased in the UK, although there are differences in coverage andmethodology.Both the CPI and the RPI are compiled each month using the same underlying pricedata, based on a large and representative selection of around 650 individualgoods and services for which price movements are measured in around 150 areasthroughout the UK. Around 120,000 separate price quotations are used every monthto compile the indices.The CPI and RPI can be thought of as measuring the monthly cost of a very largeshopping basket comprising all the different kinds of goods and services boughtby consumers in the UK. As the prices of individual items in the basket varyover time, the total cost of the basket will change. The spending patterns onwhich the CPI and RPI are based are reviewed annually.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 3.6,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - RPI YY",
+      "importance": 1,
+      "indicator": "RPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 3.5,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - RPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer prices index (CPI) is the main United Kingdom domestic measure ofinflation for macroeconomic purposes. The uses of the retail prices index (RPI)include indexation of pensions, state benefits and index-linked gilts. Bothmeasure the average change from month to month in the prices of consumer goodsand services purchased in the UK, although there are differences in coverage andmethodology.Both the CPI and the RPI are compiled each month using the same underlying pricedata, based on a large and representative selection of around 650 individualgoods and services for which price movements are measured in around 150 areasthroughout the UK. Around 120,000 separate price quotations are used every monthto compile the indices.The CPI and RPI can be thought of as measuring the monthly cost of a very largeshopping basket comprising all the different kinds of goods and services boughtby consumers in the UK. As the prices of individual items in the basket varyover time, the total cost of the basket will change. The spending patterns onwhich the CPI and RPI are based are reviewed annually.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 0.3,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - RPI MM",
+      "importance": 1,
+      "indicator": "RPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.9,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - RPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 0.3,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP United Kingdom-Inflation - CPI MM",
+      "importance": 1,
+      "indicator": "CPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.7,
+      "scale": "",
+      "source": "ONS",
+      "title": "United Kingdom-Inflation - CPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 0.2,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - Core CPI MM",
+      "importance": 1,
+      "indicator": "Core CPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.8,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - Core CPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 2,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - Core CPI YY",
+      "importance": 1,
+      "indicator": "Core CPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2.1,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - Core CPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 0.2,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - CPI MM",
+      "importance": 1,
+      "indicator": "CPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.7,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - CPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 2.6,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - CPI YY",
+      "importance": 1,
+      "indicator": "CPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2.7,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - CPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer prices index (CPI) is the main United Kingdom domestic measure ofinflation for macroeconomic purposes. The uses of the retail prices index (RPI)include indexation of pensions, state benefits and index-linked gilts. Bothmeasure the average change from month to month in the prices of consumer goodsand services purchased in the UK, although there are differences in coverage andmethodology.Both the CPI and the RPI are compiled each month using the same underlying pricedata, based on a large and representative selection of around 650 individualgoods and services for which price movements are measured in around 150 areasthroughout the UK. Around 120,000 separate price quotations are used every monthto compile the indices.The CPI and RPI can be thought of as measuring the monthly cost of a very largeshopping basket comprising all the different kinds of goods and services boughtby consumers in the UK. As the prices of individual items in the basket varyover time, the total cost of the basket will change. The spending patterns onwhich the CPI and RPI are based are reviewed annually.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 3.5,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - RPI YY",
+      "importance": 1,
+      "indicator": "RPI YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 3.5,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - RPI YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer prices index (CPI) is the main United Kingdom domestic measure ofinflation for macroeconomic purposes. The uses of the retail prices index (RPI)include indexation of pensions, state benefits and index-linked gilts. Bothmeasure the average change from month to month in the prices of consumer goodsand services purchased in the UK, although there are differences in coverage andmethodology.Both the CPI and the RPI are compiled each month using the same underlying pricedata, based on a large and representative selection of around 650 individualgoods and services for which price movements are measured in around 150 areasthroughout the UK. Around 120,000 separate price quotations are used every monthto compile the indices.The CPI and RPI can be thought of as measuring the monthly cost of a very largeshopping basket comprising all the different kinds of goods and services boughtby consumers in the UK. As the prices of individual items in the basket varyover time, the total cost of the basket will change. The spending patterns onwhich the CPI and RPI are based are reviewed annually.",
+      "country": "GB",
+      "currency": "GBP",
+      "date": "2018-10-17T08:30:00.000Z",
+      "forecast": 0.2,
+      "id": "11697830 2018-10-17 08:30:00 +0000 UTC GBP UK inflation seen easing back after jumping in August - ONS data - RPI MM",
+      "importance": 1,
+      "indicator": "RPI MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.9,
+      "scale": "",
+      "source": "ONS",
+      "title": "UK inflation seen easing back after jumping in August - ONS data - RPI MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.This series covers euro area with 13 Member States (Belgium, Germany,Spain, France, Ireland, Italy, Luxembourg, Netherlands, Austria, Portugal,Slovenia, Finland, Greece)",
+      "country": "ERL",
+      "currency": "EUR",
+      "date": "2018-10-17T09:00:00.000Z",
+      "forecast": 0.5,
+      "id": "11671959 2018-10-17 09:00:00 +0000 UTC EUR Euro Zone-Inflation - HICP Final MM",
+      "importance": 1,
+      "indicator": "HICP Final MM",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.2,
+      "scale": "",
+      "source": "EUROSTAT",
+      "title": "Euro Zone-Inflation - HICP Final MM",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.This series covers euro area with 13 Member States (Belgium, Germany,Spain, France, Ireland, Italy, Luxembourg, Netherlands, Austria, Portugal,Slovenia, Finland, Greece)",
+      "country": "ERL",
+      "currency": "EUR",
+      "date": "2018-10-17T09:00:00.000Z",
+      "forecast": 2.1,
+      "id": "11671959 2018-10-17 09:00:00 +0000 UTC EUR Euro Zone-Inflation - HICP Final YY",
+      "importance": 1,
+      "indicator": "HICP Final YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2,
+      "scale": "",
+      "source": "EUROSTAT",
+      "title": "Euro Zone-Inflation - HICP Final YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "Building permits-quantity of formal approvals of building plans by thedesignated government agency as meeting the requirements of prescribed codes.Itis an authorization to proceed with the construction or reconfiguration of aspecific structure at a particular site, in accordance with the approveddrawings \u0026 specifications.Quantity of received Building Permits is used as theearliest indicator for developments in the housing market.Additionally,becauseof the high outlays needed to begin construction projects;an increase inBuilding Permits implies an increase in investment \u0026 corporate optimism.Finally,the figure gives insight into consumer activity, since new homepurchases are associated with an increase in sales of durable goods.These seriesprovide building permit statistics on new privately-owned residentialconstruction. The statistics are based upon reports submitted by local buildingpermit officials in response to a mail survey.There is a sample of 8,500 permit-issuing places, selected from a universe of approximately 19,000 places.Thetypes of structures reported within Residential Housekeeping Buildings aredefined below:A)Single Family Houses - Excludes mobile homes,(B)Two-Family Buildings,(C)Three-and Four-Family Buildings \u0026 (D)Five-or-More Family Buildings",
+      "country": "US",
+      "currency": "USD",
+      "date": "2018-10-17T12:30:00.000Z",
+      "forecast": 1.278,
+      "id": "11055898 2018-10-17 12:30:00 +0000 UTC USD United States-House Starts - Building Permits: Number",
+      "importance": 1,
+      "indicator": "Building Permits: Number",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 1.229,
+      "scale": "M",
+      "source": "Dept of Commerce",
+      "title": "United States-House Starts - Building Permits: Number",
+      "unit": ""
+    },
+    {
+      "actual": null,
+      "comment": "The unemployment rate represents the number of unemployed persons expressed as apercentage of the labour force. The unemployment rate for a particular age/sexgroup is the number of unemployed in that group expressed as a percentage of thelabour force for that group.Unemployed persons aged 15 and over who were not employed during the referenceweek, and had actively looked for full-time or part-time work at any time in thefour weeks up to the end of the reference week and were available for work inthe reference week, or were waiting to start a new job within the four weeksfrom the end of the reference week and would have started in the reference weekif the job had been available then; or were waiting to be called back to afull-time or part-time job from which they had been stood down without pay forless than four weeks up to the end of the reference week (including the whole ofthe reference week) for reasons other than bad weather or plant breakdown.",
+      "country": "AU",
+      "currency": "AUD",
+      "date": "2018-10-18T00:30:00.000Z",
+      "forecast": 5.3,
+      "id": "11519186 2018-10-18 00:30:00 +0000 UTC AUD Australia-Employment - Unemployment Rate",
+      "importance": 1,
+      "indicator": "Unemployment Rate",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 5.3,
+      "scale": "",
+      "source": "Stats AU",
+      "title": "Australia-Employment - Unemployment Rate",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure.Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness.",
+      "country": "JP",
+      "currency": "JPY",
+      "date": "2018-10-18T23:30:00.000Z",
+      "forecast": 1,
+      "id": "11697496 2018-10-18 23:30:00 +0000 UTC JPY Japan-CPI Nationwide - CPI, Core Nationwide YY",
+      "importance": 1,
+      "indicator": "CPI, Core Nationwide YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.9,
+      "scale": "",
+      "source": "Min IA\u0026C",
+      "title": "Japan-CPI Nationwide - CPI, Core Nationwide YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure.Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness.",
+      "country": "JP",
+      "currency": "JPY",
+      "date": "2018-10-18T23:30:00.000Z",
+      "forecast": null,
+      "id": "11697496 2018-10-18 23:30:00 +0000 UTC JPY Japan-CPI Nationwide - CPI, Overall Nationwide",
+      "importance": 1,
+      "indicator": "CPI, Overall Nationwide",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 1.3,
+      "scale": "",
+      "source": "Min IA\u0026C",
+      "title": "Japan-CPI Nationwide - CPI, Overall Nationwide",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "CA",
+      "currency": "CAD",
+      "date": "2018-10-19T12:30:00.000Z",
+      "forecast": 2.7,
+      "id": "11696777 2018-10-19 12:30:00 +0000 UTC CAD Canada-Inflation - CPI Inflation YY",
+      "importance": 1,
+      "indicator": "CPI Inflation YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 2.8,
+      "scale": "",
+      "source": "Stats CA",
+      "title": "Canada-Inflation - CPI Inflation YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "The consumer price index (CPI) is a measure of change in the general level ofprices of goods and services bought by households over a specified period oftime. It compares a household's cost for a specific basket of finished goods andservices with the cost of the same basket during an earlier benchmark period.The consumer price index is used as a measurement of inflation and is a keyeconomic figure. Likely impact:1) Interest Rates: Larger-than-expected quarterly increase in price inflation orincreasing trend is considered inflationary; this will cause bond prices to dropand yields and interest rates to rise.2) Stock Prices: Higher than expected price inflation is bearish on the stockmarket as higher inflation will lead to higher interest rates.3) Exchange Rates: High inflation has an uncertain effect. It would lead todepreciation as higher prices mean lower competitiveness. Conversely, higherinflation causes higher interest rates and a tighter monetary policy that leadsto an appreciation.",
+      "country": "CA",
+      "currency": "CAD",
+      "date": "2018-10-19T12:30:00.000Z",
+      "forecast": null,
+      "id": "11696777 2018-10-19 12:30:00 +0000 UTC CAD Canada-Inflation - CPI BoC Core YY",
+      "importance": 1,
+      "indicator": "CPI BoC Core YY",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 1.7,
+      "scale": "",
+      "source": "Stats CA",
+      "title": "Canada-Inflation - CPI BoC Core YY",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "",
+      "country": "CA",
+      "currency": "CAD",
+      "date": "2018-10-19T12:30:00.000Z",
+      "forecast": null,
+      "id": "11696777 2018-10-19 12:30:00 +0000 UTC CAD Canada-Inflation - Core CPI MM SA",
+      "importance": 1,
+      "indicator": "Core CPI MM SA",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 0.2,
+      "scale": "",
+      "source": "Stats CA",
+      "title": "Canada-Inflation - Core CPI MM SA",
+      "unit": "%"
+    },
+    {
+      "actual": null,
+      "comment": "Construction industry provides information on construction output and activity.Such information gives an insight into the supply on the housing andconstruction market.Rising number of new construction starts or value of construction completedreflects higher consumer and business optimism. Expanding construction indicatesgrowth in the housing market and predicts an increase in the overall economy.However, an excessive supply of new buildings may result in a drop in housingprices.The construction industry is one of the first to go into a recession when theeconomy declines but also to recover as conditions improve.",
+      "country": "US",
+      "currency": "USD",
+      "date": "2018-10-19T14:00:00.000Z",
+      "forecast": 5.3,
+      "id": "11041166 2018-10-19 14:00:00 +0000 UTC USD United States - Existing Homes Sales - Existing Home Sales",
+      "importance": 1,
+      "indicator": "Existing Home Sales",
+      "link": "",
+      "period": "Sep. 2018",
+      "previous": 5.34,
+      "scale": "M",
+      "source": "NAR",
+      "title": "United States - Existing Homes Sales - Existing Home Sales",
+      "unit": ""
+    }
+  ],
+  "status": "ok"
+}
+
+
+[  
+   {  
+      "id":"bd61b968-b27e-3cba-a800-3986ca495a59",
+      "link":"https://finance.yahoo.com/news/us-market-indexes-dont-sustain-223348208.html?.tsrc=rss",
+      "title":"US Market Indexes Don't Sustain Gains",
+      "shortDescription":"Nasdaq closes at 7,430.74 with a loss of -0.88%",
+      "published":1539642828
+   },
+   {  
+      "id":"b7e51afb-ebf5-367d-8638-eb0e026f7823",
+      "link":"https://finance.yahoo.com/news/asian-stocks-set-mixed-open-215849111.html?.tsrc=rss",
+      "title":"Asian Stocks Set for Mixed Open; Dollar Declines: Markets Wrap",
+      "shortDescription":"The dollar touched a two-week low against peers, while Treasury yields steadied amid a backdrop of ongoing global tensions.  Japanese futures were little changed, while they ticked higher in China and Hong Kong.  The dollar’s slide came ahead of a U.S. Treasury currency manipulation report that’s expected this week.",
+      "published":1539640729
+   },
+   {  
+      "id":"0cd578e0-b831-33f9-ba87-df1fcac2db34",
+      "link":"https://finance.yahoo.com/news/business-highlights-214631136.html?.tsrc=rss",
+      "title":"Business Highlights",
+      "shortDescription":"Before there was Amazon, there was Sears, America's everything-under-one-roof store and the biggest retailer in the world.  WASHINGTON (AP) -- The federal budget deficit has surged to $779 billion in fiscal 2018.",
+      "published":1539639991
+   },
+   {  
+      "id":"af6a0872-3d6a-3570-bb88-868172e78434",
+      "link":"https://finance.yahoo.com/news/caterpillar-cat-stock-moves-0-214509928.html?.tsrc=rss",
+      "title":"Caterpillar (CAT) Stock Moves -0.19%: What You Should Know",
+      "shortDescription":"Caterpillar (CAT) closed at $141.80 in the latest trading session, marking a -0.19% move from the prior day.",
+      "published":1539639909
+   },
+   {  
+      "id":"5960b301-c812-3610-930e-c7e8506cdfea",
+      "link":"https://finance.yahoo.com/news/intel-intc-dips-more-broader-214509846.html?.tsrc=rss",
+      "title":"Intel (INTC) Dips More Than Broader Markets: What You Should Know",
+      "shortDescription":"In the latest trading session, Intel (INTC) closed at $44.53, marking a -0.78% move from the previous day.",
+      "published":1539639909
+   },
+   {  
+      "id":"326a93cd-cb1f-3bc5-92c9-ab7687ccf2ff",
+      "link":"https://finance.yahoo.com/news/northern-oil-gas-nog-gains-214509749.html?.tsrc=rss",
+      "title":"Northern Oil and Gas (NOG) Gains As Market Dips: What You Should Know",
+      "shortDescription":"Northern Oil and Gas (NOG) closed at $3.75 in the latest trading session, marking a +0.54% move from the prior day.",
+      "published":1539639909
+   },
+   {  
+      "id":"ac399ec8-9710-3991-b16e-3a8f00220247",
+      "link":"https://finance.yahoo.com/m/ac399ec8-9710-3991-b16e-3a8f00220247/cleveland-cliffs%E2%80%99s-q3-2018.html?.tsrc=rss",
+      "title":"Cleveland-Cliffs’s Q3 2018 Results: What’s in the Cards?",
+      "shortDescription":"Cleveland-Cliffs (CLF) is slated to release its third-quarter results before the market opens on October 19. It will have a conference call with analysts and investors on the same day at 10:00 AM EDT. CLF’s second-quarter results were a solid beat on expectations.",
+      "published":1539639655
+   },
+   {  
+      "id":"7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51",
+      "link":"https://finance.yahoo.com/m/7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51/these-sudden-stock-market.html?.tsrc=rss",
+      "title":"These sudden stock-market plunges really are more much more frequent, this chart shows",
+      "shortDescription":"Does it feel like sudden bursts of volatility happen more than they used to? It ends up that they are.",
+      "published":1539638640
+   },
+   {  
+      "id":"e61a9aa8-847c-3f6d-99cb-4609a6f7b32b",
+      "link":"https://finance.yahoo.com/m/e61a9aa8-847c-3f6d-99cb-4609a6f7b32b/dow-drops-89-points-as-early.html?.tsrc=rss",
+      "title":"Dow Drops 89 Points as Early Gains Do the Big Fade",
+      "shortDescription":"The Dow Jones Industrial Average closed lower Monday—where it joined the Nasdaq and S&P 500—despite spending most of the day in positive territory.  The Dow Jones Industrial Average lost 89.44 points, or 0.4%, to 25,250.55 on Monday, while the S&P 500 receded 0.6% to 2750.79, and the Nasdaq Composite dropped 0.9% to 7430.74.  The numbers have been strong so far: As of last Friday, 29 S&P 500 companies have reported their third-quarter results, and 79% of them have topped analyst earnings estimates, according to Bank of America Merrill Lynch.",
+      "published":1539638040
+   },
+   {  
+      "id":"32446ec2-7e25-3a1f-a1b4-51b6c0667dfe",
+      "link":"https://finance.yahoo.com/m/32446ec2-7e25-3a1f-a1b4-51b6c0667dfe/morgan-stanley%3A-the-stock.html?.tsrc=rss",
+      "title":"Morgan Stanley: The stock sell-off is going to get worse",
+      "shortDescription":"The stock market is in the middle of a rolling bear market, says Morgan Stanley's Mike Wilson.  The stock market sell-off is only going to get worse, predicts Morgan Stanley's chief U.S. equity strategist, Mike Wilson.  In a note to clients Monday, he wrote that the pain is not over for growth, discretionary and tech stocks, which been the final holdouts until last week.",
+      "published":1539637680
+   },
+   {  
+      "id":"b7b1cb96-b478-3511-a759-58c822d41ab4",
+      "link":"https://finance.yahoo.com/news/why-stock-market-volatility-shouldn-210300851.html?.tsrc=rss",
+      "title":"Why Stock Market Volatility Shouldn't Scare You",
+      "shortDescription":"Keep your eyes on the long-term prize.",
+      "published":1539637380
+   },
+   {  
+      "id":"6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b",
+      "link":"https://finance.yahoo.com/m/6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b/this-stock-market-pullback.html?.tsrc=rss",
+      "title":"This stock-market pullback probably has further to go: analysts",
+      "shortDescription":"Wall Street pundits on Monday continue to urge caution, predicting that the stock market turbulence is far from over. Yet many of them ended their commentary on an optimistic note, suggesting that the bullish backdrop for stocks remains intact.",
+      "published":1539637320
+   },
+   {  
+      "id":"7d514a39-b5fd-3474-8c42-b7ac1b4538c6",
+      "link":"https://finance.yahoo.com/news/emerging-markets-brazil-mexico-fx-202315255.html?.tsrc=rss",
+      "title":"EMERGING MARKETS-Brazil and Mexico FX firm on dollar dip, stocks gain",
+      "shortDescription":"Brazil and Mexican currencies firmed against a weaker dollar on Monday, and their stock markets rose, bucking a decline in other emerging market counterparts. U.S. stocks ended lower in a choppy trading ...",
+      "published":1539637249
+   },
+   {  
+      "id":"d543a656-6d60-39a3-9df5-2ede4b3f2570",
+      "link":"https://finance.yahoo.com/news/happened-stock-market-today-205926399.html?.tsrc=rss",
+      "title":"What Happened in the Stock Market Today",
+      "shortDescription":"Sears filed for bankruptcy and Bank of America reported strong growth in its third quarter.",
+      "published":1539637166
+   },
+   {  
+      "id":"a8f465b2-3e12-3d57-86e8-30c5f4bfa3dd",
+      "link":"https://finance.yahoo.com/news/stock-futures-drop-saudi-tensions-114645345.html?.tsrc=rss",
+      "title":"Tech stocks drag down Wall St. as earnings worries weigh",
+      "shortDescription":"U.S. stocks ended lower in a choppy trading session on Monday, dragged down by technology stocks amid lingering worries over interest rates and corporate earnings.  The benchmark S&P 500 index teetered between positive and negative territory for much of the day but moved definitively lower in the last half-hour of trading.  The Dow, which was positive for most of the session, reversed course.",
+      "published":1539636522
+   },
+   {  
+      "id":"80b4c8d7-a118-3025-b61c-f32fcfca409c",
+      "link":"https://finance.yahoo.com/news/major-us-stock-indexes-fared-204518288.html?.tsrc=rss",
+      "title":"How major US stock indexes fared Monday",
+      "shortDescription":"After a wobbly day of trading, U.S. stocks fell for the seventh time in eight days Monday as technology companies continued to slide. Industrial and high-dividend companies rose, and the market's losses ...",
+      "published":1539636318
+   },
+   {  
+      "id":"b88332bf-f5fa-3d8d-846b-23b54f902049",
+      "link":"https://finance.yahoo.com/m/b88332bf-f5fa-3d8d-846b-23b54f902049/stocks-end-lower-as-tech.html?.tsrc=rss",
+      "title":"Stocks end lower as tech weakness quashes attempt at gains",
+      "shortDescription":"Major benchmarks close lower Monday after stocks failed to defend earlier gains as investors remained cautious.",
+      "published":1539636000
+   },
+   {  
+      "id":"a2351557-6e54-3127-b18d-79f4602672e0",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-002803618.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; world stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens ...",
+      "published":1539635986
+   },
+   {  
+      "id":"ba749d0c-b601-3026-8479-5bd41941771a",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-004325494.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens like the Japanese and Swiss currencies, as well as gold.  The yen touched a one-month high versus the greenback and the Swiss franc rose for the fourth session in five while gold hit its highest since late July.  Saudi Arabia's King Salman on Monday ordered an internal probe into the unexplained disappearance of Jamal Khashoggi as a joint Turkish-Saudi team was expected at the Saudi consulate in Istanbul where the journalist and dissident was last seen on Oct. 2.",
+      "published":1539635841
+   },
+   {  
+      "id":"abe4f623-8aca-35a7-957f-8bae1e5e259b",
+      "link":"https://finance.yahoo.com/news/markets-know-hollow-threat-see-203014161.html?.tsrc=rss",
+      "title":"Markets Know a Hollow Threat When They See It",
+      "shortDescription":"Perhaps if this was another time, say 30 years ago when Saudi Arabia played the role of “swing producer” and could influence the global economy by setting the price of oil without challenge, this all would matter.  The global energy market is now more diversified in terms of products and producers, with even the U.S. a net exporter.  Also, the MSCI All-Country World Index of stocks was little changed as were top government bond markets such as those for U.S. Treasuries and German bunds.",
+      "published":1539635414
+   }
+]
+
+[  
+   {  
+      "id":"0cd578e0-b831-33f9-ba87-df1fcac2db34",
+      "link":"https://finance.yahoo.com/news/business-highlights-214631136.html?.tsrc=rss",
+      "title":"Business Highlights",
+      "shortDescription":"Before there was Amazon, there was Sears, America's everything-under-one-roof store and the biggest retailer in the world.  WASHINGTON (AP) -- The federal budget deficit has surged to $779 billion in fiscal 2018.",
+      "published":1539639991
+   },
+   {  
+      "id":"ac399ec8-9710-3991-b16e-3a8f00220247",
+      "link":"https://finance.yahoo.com/m/ac399ec8-9710-3991-b16e-3a8f00220247/cleveland-cliffs%E2%80%99s-q3-2018.html?.tsrc=rss",
+      "title":"Cleveland-Cliffs’s Q3 2018 Results: What’s in the Cards?",
+      "shortDescription":"Cleveland-Cliffs (CLF) is slated to release its third-quarter results before the market opens on October 19. It will have a conference call with analysts and investors on the same day at 10:00 AM EDT. CLF’s second-quarter results were a solid beat on expectations.",
+      "published":1539639655
+   },
+   {  
+      "id":"7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51",
+      "link":"https://finance.yahoo.com/m/7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51/these-sudden-stock-market.html?.tsrc=rss",
+      "title":"These sudden stock-market plunges really are more much more frequent, this chart shows",
+      "shortDescription":"Does it feel like sudden bursts of volatility happen more than they used to? It ends up that they are.",
+      "published":1539638640
+   },
+   {  
+      "id":"e61a9aa8-847c-3f6d-99cb-4609a6f7b32b",
+      "link":"https://finance.yahoo.com/m/e61a9aa8-847c-3f6d-99cb-4609a6f7b32b/dow-drops-89-points-as-early.html?.tsrc=rss",
+      "title":"Dow Drops 89 Points as Early Gains Do the Big Fade",
+      "shortDescription":"The Dow Jones Industrial Average closed lower Monday—where it joined the Nasdaq and S&P 500—despite spending most of the day in positive territory.  The Dow Jones Industrial Average lost 89.44 points, or 0.4%, to 25,250.55 on Monday, while the S&P 500 receded 0.6% to 2750.79, and the Nasdaq Composite dropped 0.9% to 7430.74.  The numbers have been strong so far: As of last Friday, 29 S&P 500 companies have reported their third-quarter results, and 79% of them have topped analyst earnings estimates, according to Bank of America Merrill Lynch.",
+      "published":1539638040
+   },
+   {  
+      "id":"32446ec2-7e25-3a1f-a1b4-51b6c0667dfe",
+      "link":"https://finance.yahoo.com/m/32446ec2-7e25-3a1f-a1b4-51b6c0667dfe/morgan-stanley%3A-the-stock.html?.tsrc=rss",
+      "title":"Morgan Stanley: The stock sell-off is going to get worse",
+      "shortDescription":"The stock market is in the middle of a rolling bear market, says Morgan Stanley's Mike Wilson.  The stock market sell-off is only going to get worse, predicts Morgan Stanley's chief U.S. equity strategist, Mike Wilson.  In a note to clients Monday, he wrote that the pain is not over for growth, discretionary and tech stocks, which been the final holdouts until last week.",
+      "published":1539637680
+   },
+   {  
+      "id":"b7b1cb96-b478-3511-a759-58c822d41ab4",
+      "link":"https://finance.yahoo.com/news/why-stock-market-volatility-shouldn-210300851.html?.tsrc=rss",
+      "title":"Why Stock Market Volatility Shouldn't Scare You",
+      "shortDescription":"Keep your eyes on the long-term prize.",
+      "published":1539637380
+   },
+   {  
+      "id":"6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b",
+      "link":"https://finance.yahoo.com/m/6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b/this-stock-market-pullback.html?.tsrc=rss",
+      "title":"This stock-market pullback probably has further to go: analysts",
+      "shortDescription":"Wall Street pundits on Monday continue to urge caution, predicting that the stock market turbulence is far from over. Yet many of them ended their commentary on an optimistic note, suggesting that the bullish backdrop for stocks remains intact.",
+      "published":1539637320
+   },
+   {  
+      "id":"7d514a39-b5fd-3474-8c42-b7ac1b4538c6",
+      "link":"https://finance.yahoo.com/news/emerging-markets-brazil-mexico-fx-202315255.html?.tsrc=rss",
+      "title":"EMERGING MARKETS-Brazil and Mexico FX firm on dollar dip, stocks gain",
+      "shortDescription":"Brazil and Mexican currencies firmed against a weaker dollar on Monday, and their stock markets rose, bucking a decline in other emerging market counterparts. U.S. stocks ended lower in a choppy trading ...",
+      "published":1539637249
+   },
+   {  
+      "id":"d543a656-6d60-39a3-9df5-2ede4b3f2570",
+      "link":"https://finance.yahoo.com/news/happened-stock-market-today-205926399.html?.tsrc=rss",
+      "title":"What Happened in the Stock Market Today",
+      "shortDescription":"Sears filed for bankruptcy and Bank of America reported strong growth in its third quarter.",
+      "published":1539637166
+   },
+   {  
+      "id":"a8f465b2-3e12-3d57-86e8-30c5f4bfa3dd",
+      "link":"https://finance.yahoo.com/news/stock-futures-drop-saudi-tensions-114645345.html?.tsrc=rss",
+      "title":"Tech stocks drag down Wall St. as earnings worries weigh",
+      "shortDescription":"U.S. stocks ended lower in a choppy trading session on Monday, dragged down by technology stocks amid lingering worries over interest rates and corporate earnings.  The benchmark S&P 500 index teetered between positive and negative territory for much of the day but moved definitively lower in the last half-hour of trading.  The Dow, which was positive for most of the session, reversed course.",
+      "published":1539636522
+   },
+   {  
+      "id":"80b4c8d7-a118-3025-b61c-f32fcfca409c",
+      "link":"https://finance.yahoo.com/news/major-us-stock-indexes-fared-204518288.html?.tsrc=rss",
+      "title":"How major US stock indexes fared Monday",
+      "shortDescription":"After a wobbly day of trading, U.S. stocks fell for the seventh time in eight days Monday as technology companies continued to slide. Industrial and high-dividend companies rose, and the market's losses ...",
+      "published":1539636318
+   },
+   {  
+      "id":"b88332bf-f5fa-3d8d-846b-23b54f902049",
+      "link":"https://finance.yahoo.com/m/b88332bf-f5fa-3d8d-846b-23b54f902049/stocks-end-lower-as-tech.html?.tsrc=rss",
+      "title":"Stocks end lower as tech weakness quashes attempt at gains",
+      "shortDescription":"Major benchmarks close lower Monday after stocks failed to defend earlier gains as investors remained cautious.",
+      "published":1539636000
+   },
+   {  
+      "id":"a2351557-6e54-3127-b18d-79f4602672e0",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-002803618.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; world stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens ...",
+      "published":1539635986
+   },
+   {  
+      "id":"ba749d0c-b601-3026-8479-5bd41941771a",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-004325494.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens like the Japanese and Swiss currencies, as well as gold.  The yen touched a one-month high versus the greenback and the Swiss franc rose for the fourth session in five while gold hit its highest since late July.  Saudi Arabia's King Salman on Monday ordered an internal probe into the unexplained disappearance of Jamal Khashoggi as a joint Turkish-Saudi team was expected at the Saudi consulate in Istanbul where the journalist and dissident was last seen on Oct. 2.",
+      "published":1539635841
+   },
+   {  
+      "id":"abe4f623-8aca-35a7-957f-8bae1e5e259b",
+      "link":"https://finance.yahoo.com/news/markets-know-hollow-threat-see-203014161.html?.tsrc=rss",
+      "title":"Markets Know a Hollow Threat When They See It",
+      "shortDescription":"Perhaps if this was another time, say 30 years ago when Saudi Arabia played the role of “swing producer” and could influence the global economy by setting the price of oil without challenge, this all would matter.  The global energy market is now more diversified in terms of products and producers, with even the U.S. a net exporter.  Also, the MSCI All-Country World Index of stocks was little changed as were top government bond markets such as those for U.S. Treasuries and German bunds.",
+      "published":1539635414
+   },
+   {  
+      "id":"d6e59bd2-2882-3ef8-9f16-ee4dd2d25b5f",
+      "link":"https://finance.yahoo.com/m/d6e59bd2-2882-3ef8-9f16-ee4dd2d25b5f/stocks-slip-on-saudi.html?.tsrc=rss",
+      "title":"Stocks Slip on Saudi Tensions, Trade Woes; Sears Goes Bankrupt",
+      "shortDescription":"Stocks fell on Monday following last week's sharp losses.  Sears' controlling shareholder, Edward Lampert, stepped down as CEO but will remain chairman.  Click here to register for a free online video in which TheStreet's retirement expert Robert Powell and an all-star panel run down all you need to know.",
+      "published":1539634020
+   },
+   {  
+      "id":"776cff28-243b-3698-8f04-b31b06ceeedb",
+      "link":"https://finance.yahoo.com/m/776cff28-243b-3698-8f04-b31b06ceeedb/corporate-insiders-are-taking.html?.tsrc=rss",
+      "title":"Corporate insiders are taking the stock market’s big selloff in stride",
+      "shortDescription":"Corporate insiders are giving the stock market the benefit of the doubt, despite the market’s early-October plunge.  For the record, I should stress that the insider trading to which I refer is the legal kind: transactions by a firm’s officers, directors, and largest shareholders, and reported promptly to the Securities and Exchange Commission.  It’s possible by slicing and dicing the SEC data to come up with portfolios that, generally, have beaten the market by a significant margin.",
+      "published":1539633720
+   },
+   {  
+      "id":"a9a93ae6-3562-3d1b-b5fc-f83cb7b995c5",
+      "link":"https://finance.yahoo.com/m/a9a93ae6-3562-3d1b-b5fc-f83cb7b995c5/dollar-slips-as-haven-related.html?.tsrc=rss",
+      "title":"Dollar slips as haven-related buying boosts Japanese yen, Swiss franc",
+      "shortDescription":"Geopolitical noise is the focus of foreign exchange investors on Monday, leaving havens like Japan’s yen and Switzerland’s franc among the best performers, while the U.S. dollar struggles.",
+      "published":1539633060
+   },
+   {  
+      "id":"2b006864-7076-38ce-a254-7cf3a38f50a3",
+      "link":"https://finance.yahoo.com/m/2b006864-7076-38ce-a254-7cf3a38f50a3/this-chart-shows-why-october.html?.tsrc=rss",
+      "title":"This chart shows why October has such a scary reputation on Wall Street",
+      "shortDescription":"The S&P 500 has already posted three moves of more than 1 percent this month.  The 1929 crash took place in  October, as did the one in 1987  , which saw the  S&P 500  lose more than 20 percent of its value in one day.  Through 11 trading sessions this month (including Monday), the S&P 500 has recorded three moves of at least 1 percent.",
+      "published":1539630120
+   }
+]
+
+{  
+   "time":"2018-10-15T22:12:59",
+   "fields":[  
+      "value",
+      "volume"
+   ],
+   "metainfo":{  
+      "resultsName":"US",
+      "symbolset":"US",
+      "name":"volume_gainers"
+   },
+   "symbols":[  
+      {  
+         "s":"NYSE:BAC",
+         "f":[  
+            114507378,
+            114507378
+         ]
+      },
+      {  
+         "s":"NASDAQ:AMD",
+         "f":[  
+            70396571,
+            70396571
+         ]
+      },
+      {  
+         "s":"NYSE:GE",
+         "f":[  
+            62585222,
+            62585222
+         ]
+      },
+      {  
+         "s":"NYSE:F",
+         "f":[  
+            39960317,
+            39960317
+         ]
+      },
+      {  
+         "s":"NYSE:WFC",
+         "f":[  
+            34118436,
+            34118436
+         ]
+      },
+      {  
+         "s":"NYSE:PBR",
+         "f":[  
+            33496674,
+            33496674
+         ]
+      },
+      {  
+         "s":"NYSE:T",
+         "f":[  
+            33239031,
+            33239031
+         ]
+      },
+      {  
+         "s":"NASDAQ:MSFT",
+         "f":[  
+            32020908,
+            32020908
+         ]
+      },
+      {  
+         "s":"NYSE:WFT",
+         "f":[  
+            31130384,
+            31130384
+         ]
+      },
+      {  
+         "s":"NASDAQ:AAPL",
+         "f":[  
+            30391249,
+            30391249
+         ]
+      },
+      {  
+         "s":"NASDAQ:MU",
+         "f":[  
+            27297595,
+            27297595
+         ]
+      },
+      {  
+         "s":"NYSE:NIO",
+         "f":[  
+            26731294,
+            26731294
+         ]
+      },
+      {  
+         "s":"NASDAQ:CSCO",
+         "f":[  
+            26153474,
+            26153474
+         ]
+      },
+      {  
+         "s":"NYSE:CHK",
+         "f":[  
+            26115100,
+            26115100
+         ]
+      },
+      {  
+         "s":"NYSE:ABX",
+         "f":[  
+            25945296,
+            25945296
+         ]
+      },
+      {  
+         "s":"NYSE:ABEV",
+         "f":[  
+            25602070,
+            25602070
+         ]
+      },
+      {  
+         "s":"NASDAQ:NBEV",
+         "f":[  
+            25061812,
+            25061812
+         ]
+      },
+      {  
+         "s":"NASDAQ:CRON",
+         "f":[  
+            24979768,
+            24979768
+         ]
+      },
+      {  
+         "s":"NYSE:CGC",
+         "f":[  
+            23806511,
+            23806511
+         ]
+      },
+      {  
+         "s":"NASDAQ:CMCSA",
+         "f":[  
+            22763559,
+            22763559
+         ]
+      }
+   ]
+}
+
+[  
+   {  
+      "id":"b7e51afb-ebf5-367d-8638-eb0e026f7823",
+      "link":"https://finance.yahoo.com/news/asian-stocks-set-mixed-open-215849111.html?.tsrc=rss",
+      "title":"Asian Stocks Set for Mixed Open; Dollar Declines: Markets Wrap",
+      "shortDescription":"The dollar touched a two-week low against peers, while Treasury yields steadied amid a backdrop of ongoing global tensions. Japanese futures were little changed, while they ticked higher in China and Hong Kong. The dollar’s slide came ahead of a U.S. Treasury currency manipulation report that’s expected this week.",
+      "published":1539640729
+   },
+   {  
+      "id":"0cd578e0-b831-33f9-ba87-df1fcac2db34",
+      "link":"https://finance.yahoo.com/news/business-highlights-214631136.html?.tsrc=rss",
+      "title":"Business Highlights",
+      "shortDescription":"Before there was Amazon, there was Sears, America's everything-under-one-roof store and the biggest retailer in the world. WASHINGTON (AP) -- The federal budget deficit has surged to $779 billion in fiscal 2018.",
+      "published":1539639991
+   },
+   {  
+      "id":"af6a0872-3d6a-3570-bb88-868172e78434",
+      "link":"https://finance.yahoo.com/news/caterpillar-cat-stock-moves-0-214509928.html?.tsrc=rss",
+      "title":"Caterpillar (CAT) Stock Moves -0.19%: What You Should Know",
+      "shortDescription":"Caterpillar (CAT) closed at $141.80 in the latest trading session, marking a -0.19% move from the prior day.",
+      "published":1539639909
+   },
+   {  
+      "id":"5960b301-c812-3610-930e-c7e8506cdfea",
+      "link":"https://finance.yahoo.com/news/intel-intc-dips-more-broader-214509846.html?.tsrc=rss",
+      "title":"Intel (INTC) Dips More Than Broader Markets: What You Should Know",
+      "shortDescription":"In the latest trading session, Intel (INTC) closed at $44.53, marking a -0.78% move from the previous day.",
+      "published":1539639909
+   },
+   {  
+      "id":"326a93cd-cb1f-3bc5-92c9-ab7687ccf2ff",
+      "link":"https://finance.yahoo.com/news/northern-oil-gas-nog-gains-214509749.html?.tsrc=rss",
+      "title":"Northern Oil and Gas (NOG) Gains As Market Dips: What You Should Know",
+      "shortDescription":"Northern Oil and Gas (NOG) closed at $3.75 in the latest trading session, marking a +0.54% move from the prior day.",
+      "published":1539639909
+   },
+   {  
+      "id":"ac399ec8-9710-3991-b16e-3a8f00220247",
+      "link":"https://finance.yahoo.com/m/ac399ec8-9710-3991-b16e-3a8f00220247/cleveland-cliffs%E2%80%99s-q3-2018.html?.tsrc=rss",
+      "title":"Cleveland-Cliffs’s Q3 2018 Results: What’s in the Cards?",
+      "shortDescription":"Cleveland-Cliffs (CLF) is slated to release its third-quarter results before the market opens on October 19. It will have a conference call with analysts and investors on the same day at 10:00 AM EDT. CLF’s second-quarter results were a solid beat on expectations.",
+      "published":1539639655
+   },
+   {  
+      "id":"7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51",
+      "link":"https://finance.yahoo.com/m/7fd8c657-f7ad-3a9d-9bff-ba50bfbc2e51/these-sudden-stock-market.html?.tsrc=rss",
+      "title":"These sudden stock-market plunges really are more much more frequent, this chart shows",
+      "shortDescription":"Does it feel like sudden bursts of volatility happen more than they used to? It ends up that they are.",
+      "published":1539638640
+   },
+   {  
+      "id":"e61a9aa8-847c-3f6d-99cb-4609a6f7b32b",
+      "link":"https://finance.yahoo.com/m/e61a9aa8-847c-3f6d-99cb-4609a6f7b32b/dow-drops-89-points-as-early.html?.tsrc=rss",
+      "title":"Dow Drops 89 Points as Early Gains Do the Big Fade",
+      "shortDescription":"The Dow Jones Industrial Average closed lower Monday—where it joined the Nasdaq and S&P 500—despite spending most of the day in positive territory. The Dow Jones Industrial Average lost 89.44 points, or 0.4%, to 25,250.55 on Monday, while the S&P 500 receded 0.6% to 2750.79, and the Nasdaq Composite dropped 0.9% to 7430.74. The numbers have been strong so far: As of last Friday, 29 S&P 500 companies have reported their third-quarter results, and 79% of them have topped analyst earnings estimates, according to Bank of America Merrill Lynch.",
+      "published":1539638040
+   },
+   {  
+      "id":"32446ec2-7e25-3a1f-a1b4-51b6c0667dfe",
+      "link":"https://finance.yahoo.com/m/32446ec2-7e25-3a1f-a1b4-51b6c0667dfe/morgan-stanley%3A-the-stock.html?.tsrc=rss",
+      "title":"Morgan Stanley: The stock sell-off is going to get worse",
+      "shortDescription":"The stock market is in the middle of a rolling bear market, says Morgan Stanley's Mike Wilson. The stock market sell-off is only going to get worse, predicts Morgan Stanley's chief U.S. equity strategist, Mike Wilson. In a note to clients Monday, he wrote that the pain is not over for growth, discretionary and tech stocks, which been the final holdouts until last week.",
+      "published":1539637680
+   },
+   {  
+      "id":"b7b1cb96-b478-3511-a759-58c822d41ab4",
+      "link":"https://finance.yahoo.com/news/why-stock-market-volatility-shouldn-210300851.html?.tsrc=rss",
+      "title":"Why Stock Market Volatility Shouldn't Scare You",
+      "shortDescription":"Keep your eyes on the long-term prize.",
+      "published":1539637380
+   },
+   {  
+      "id":"6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b",
+      "link":"https://finance.yahoo.com/m/6d6924d9-9702-3fa2-ab1e-ec70c9c1d67b/this-stock-market-pullback.html?.tsrc=rss",
+      "title":"This stock-market pullback probably has further to go: analysts",
+      "shortDescription":"Wall Street pundits on Monday continue to urge caution, predicting that the stock market turbulence is far from over. Yet many of them ended their commentary on an optimistic note, suggesting that the bullish backdrop for stocks remains intact.",
+      "published":1539637320
+   },
+   {  
+      "id":"7d514a39-b5fd-3474-8c42-b7ac1b4538c6",
+      "link":"https://finance.yahoo.com/news/emerging-markets-brazil-mexico-fx-202315255.html?.tsrc=rss",
+      "title":"EMERGING MARKETS-Brazil and Mexico FX firm on dollar dip, stocks gain",
+      "shortDescription":"Brazil and Mexican currencies firmed against a weaker dollar on Monday, and their stock markets rose, bucking a decline in other emerging market counterparts. U.S. stocks ended lower in a choppy trading ...",
+      "published":1539637249
+   },
+   {  
+      "id":"d543a656-6d60-39a3-9df5-2ede4b3f2570",
+      "link":"https://finance.yahoo.com/news/happened-stock-market-today-205926399.html?.tsrc=rss",
+      "title":"What Happened in the Stock Market Today",
+      "shortDescription":"Sears filed for bankruptcy and Bank of America reported strong growth in its third quarter.",
+      "published":1539637166
+   },
+   {  
+      "id":"a8f465b2-3e12-3d57-86e8-30c5f4bfa3dd",
+      "link":"https://finance.yahoo.com/news/stock-futures-drop-saudi-tensions-114645345.html?.tsrc=rss",
+      "title":"Tech stocks drag down Wall St. as earnings worries weigh",
+      "shortDescription":"U.S. stocks ended lower in a choppy trading session on Monday, dragged down by technology stocks amid lingering worries over interest rates and corporate earnings. The benchmark S&P 500 index teetered between positive and negative territory for much of the day but moved definitively lower in the last half-hour of trading. The Dow, which was positive for most of the session, reversed course.",
+      "published":1539636522
+   },
+   {  
+      "id":"80b4c8d7-a118-3025-b61c-f32fcfca409c",
+      "link":"https://finance.yahoo.com/news/major-us-stock-indexes-fared-204518288.html?.tsrc=rss",
+      "title":"How major US stock indexes fared Monday",
+      "shortDescription":"After a wobbly day of trading, U.S. stocks fell for the seventh time in eight days Monday as technology companies continued to slide. Industrial and high-dividend companies rose, and the market's losses ...",
+      "published":1539636318
+   },
+   {  
+      "id":"b88332bf-f5fa-3d8d-846b-23b54f902049",
+      "link":"https://finance.yahoo.com/m/b88332bf-f5fa-3d8d-846b-23b54f902049/stocks-end-lower-as-tech.html?.tsrc=rss",
+      "title":"Stocks end lower as tech weakness quashes attempt at gains",
+      "shortDescription":"Major benchmarks close lower Monday after stocks failed to defend earlier gains as investors remained cautious.",
+      "published":1539636000
+   },
+   {  
+      "id":"a2351557-6e54-3127-b18d-79f4602672e0",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-002803618.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; world stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens ...",
+      "published":1539635986
+   },
+   {  
+      "id":"ba749d0c-b601-3026-8479-5bd41941771a",
+      "link":"https://finance.yahoo.com/news/asian-shares-slip-lingering-trade-004325494.html?.tsrc=rss",
+      "title":"Safe havens rise on West-Saudi tension; stocks fall",
+      "shortDescription":"Major stock markets slipped on Monday as rising tensions between Western powers and Saudi Arabia added to concerns over the pace of global economic growth, with investors flocking to traditional safe-havens like the Japanese and Swiss currencies, as well as gold. The yen touched a one-month high versus the greenback and the Swiss franc rose for the fourth session in five while gold hit its highest since late July. Saudi Arabia's King Salman on Monday ordered an internal probe into the unexplained disappearance of Jamal Khashoggi as a joint Turkish-Saudi team was expected at the Saudi consulate in Istanbul where the journalist and dissident was last seen on Oct. 2.",
+      "published":1539635841
+   },
+   {  
+      "id":"abe4f623-8aca-35a7-957f-8bae1e5e259b",
+      "link":"https://finance.yahoo.com/news/markets-know-hollow-threat-see-203014161.html?.tsrc=rss",
+      "title":"Markets Know a Hollow Threat When They See It",
+      "shortDescription":"Perhaps if this was another time, say 30 years ago when Saudi Arabia played the role of “swing producer” and could influence the global economy by setting the price of oil without challenge, this all would matter. The global energy market is now more diversified in terms of products and producers, with even the U.S. a net exporter. Also, the MSCI All-Country World Index of stocks was little changed as were top government bond markets such as those for U.S. Treasuries and German bunds.",
+      "published":1539635414
+   }
+]
+
+{  
+   "time":"2018-10-15T22:32:59",
+   "fields":[  
+      "value",
+      "volume"
+   ],
+   "metainfo":{  
+      "resultsName":"US",
+      "symbolset":"US",
+      "name":"volume_gainers"
+   },
+   "symbols":[  
+      {  
+         "s":"NYSE:BAC",
+         "f":[  
+            114517362,
+            114517362
+         ]
+      },
+      {  
+         "s":"NASDAQ:AMD",
+         "f":[  
+            70400062,
+            70400062
+         ]
+      },
+      {  
+         "s":"NYSE:GE",
+         "f":[  
+            62587875,
+            62587875
+         ]
+      },
+      {  
+         "s":"NYSE:F",
+         "f":[  
+            39960317,
+            39960317
+         ]
+      },
+      {  
+         "s":"NYSE:WFC",
+         "f":[  
+            34118436,
+            34118436
+         ]
+      },
+      {  
+         "s":"NYSE:PBR",
+         "f":[  
+            33497074,
+            33497074
+         ]
+      },
+      {  
+         "s":"NYSE:T",
+         "f":[  
+            33239051,
+            33239051
+         ]
+      },
+      {  
+         "s":"NASDAQ:MSFT",
+         "f":[  
+            32022823,
+            32022823
+         ]
+      },
+      {  
+         "s":"NYSE:WFT",
+         "f":[  
+            31130384,
+            31130384
+         ]
+      },
+      {  
+         "s":"NASDAQ:AAPL",
+         "f":[  
+            30401811,
+            30401811
+         ]
+      },
+      {  
+         "s":"NASDAQ:MU",
+         "f":[  
+            27300423,
+            27300423
+         ]
+      },
+      {  
+         "s":"NYSE:NIO",
+         "f":[  
+            26743437,
+            26743437
+         ]
+      },
+      {  
+         "s":"NASDAQ:CSCO",
+         "f":[  
+            26153724,
+            26153724
+         ]
+      },
+      {  
+         "s":"NYSE:CHK",
+         "f":[  
+            26116457,
+            26116457
+         ]
+      },
+      {  
+         "s":"NYSE:ABX",
+         "f":[  
+            25945296,
+            25945296
+         ]
+      },
+      {  
+         "s":"NYSE:ABEV",
+         "f":[  
+            25602071,
+            25602071
+         ]
+      },
+      {  
+         "s":"NASDAQ:NBEV",
+         "f":[  
+            25081855,
+            25081855
+         ]
+      },
+      {  
+         "s":"NASDAQ:CRON",
+         "f":[  
+            24979768,
+            24979768
+         ]
+      },
+      {  
+         "s":"NYSE:CGC",
+         "f":[  
+            23843027,
+            23843027
+         ]
+      },
+      {  
+         "s":"NASDAQ:CMCSA",
+         "f":[  
+            22763592,
+            22763592
+         ]
+      }
+   ]
+}
